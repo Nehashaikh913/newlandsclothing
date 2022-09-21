@@ -5,7 +5,7 @@ include('./include/header.php')
     <div class="banner pt-5 pt-lg-0">
         <img src="./assets/images/Newlands Clothings/HOME PAGE - BANNER.WEBP" alt="banner-image">
         <div class="content">
-            <h1>Bringing neha You the Elements of Style </h1>
+            <h1>Bringing You the Elements of Style </h1>
             <div class="buttons">
                 <div class="btn first-btn">
                   <a href="./mens.php">Mens</a>
