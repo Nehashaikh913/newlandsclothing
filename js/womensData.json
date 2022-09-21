@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "1",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51yI6WYjFpL._MCnd_AC_UL320_.jpg",
+        "name": "cocktail dress",
+        "price": "58.99",
+        "category": "dress"
+    },
+    {
+        "id": "2",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61Ntvorkf5L._MCnd_AC_UL320_.jpg",
+        "name": "PARTY DRESS",
+        "price": "40.99",
+        "category": "DRESS"
+    },
+    {
+        "id": "3",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51YGdPjQZCL._MCnd_AC_UL320_.jpg",
+        "name": "SWING SKATER DRESS",
+        "price": "39.99",
+        "category": "DRESS"
+    },
+    {
+        "id": "4",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61iTIlfCryL._MCnd_AC_UL320_.jpg",
+        "name": "cocktail long dress",
+        "price": "58.99",
+        "category": "DRESS"
+    },
+    {
+        "id": "5",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61dxGW-EqsS._MCnd_AC_UL320_.jpg",
+        "name": "CASUAL SUN DRESS",
+        "price": "40.99",
+        "category": "DRESS"
+    },
+    {
+        "id": "6",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61w86yDJoZL._MCnd_AC_UL320_.jpg",
+        "name": "MIDI DRESS",
+        "price": "34.99",
+        "category": "DRESS"
+    },
+    {
+        "id": "7",
+        "image": "https://m.media-amazon.com/images/I/71fm8i-qjuL._MCnd_AC_UL320_.jpg",
+        "name": "COLUMN GOWN",
+        "price": "199.41",
+        "category": "DRESS"
+    },
+    {
+        "id": "8",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71n14yhxicL._MCnd_AC_UL320_.jpg",
+        "name": "OFF SHOULDER",
+        "price": "198.68",
+        "category": "DRESS"
+    },
+    {
+        "id": "9",
+        "image": "https://m.media-amazon.com/images/I/61BDxfEmSgL._MCnd_AC_UL320_.jpg",
+        "name": "RIVIERA DRESS",
+        "price": "197.95",
+        "category": "DRESS"
+    },
+    {
+        "id": "10",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71XkpDkzm0S._MCnd_AC_UL320_.jpg",
+        "name": "SHEATH DRESS",
+        "price": "149",
+        "category": "DRESS"
+    },
+    {
+        "id": "11",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71MDwQd+VBL._MCnd_AC_UL320_.jpg",
+        "name": "SIDE SLIT DRESS",
+        "price": "168.66",
+        "category": "DRESS"
+    },
+    {
+        "id": "12",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81H6UgU05mL._MCnd_AC_UL320_.jpg",
+        "name": "KINT MIDI DRESS",
+        "price": "119.47",
+        "category": "DRESS"
+    },
+    {
+        "id": "13",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71EhZO8Nr2L._MCnd_AC_UL320_.jpg",
+        "name": "ESME DRESS",
+        "price": "218.05",
+        "category": "DRESS"
+    },
+    {
+        "id": "14",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/719HWQbAajL._MCnd_AC_UL320_.jpg",
+        "name": "TAFFETA SKIRT",
+        "price": "269",
+        "category": "DRESS"
+    },
+    {
+        "id": "15",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91IkvlncB4L._MCnd_AC_UL320_.jpg",
+        "name": "SOUTACHE DRESS",
+        "price": "309",
+        "category": "DRESS"
+    },
+    {
+        "id": "16",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81robTaHQ7S._MCnd_AC_UL320_.jpg",
+        "name": "GODET DRESS",
+        "price": "325",
+        "category": "DRESS"
+    },
+    {
+        "id": "17",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81kKtWtV09L._MCnd_AC_UL320_.jpg",
+        "name": "STRIPE GOWN",
+        "price": "385.69",
+        "category": "DRESS"
+    },
+    {
+        "id": "18",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81n8C-MKCGS._MCnd_AC_UL320_.jpg",
+        "name": "BONNE DRESS",
+        "price": "384.31",
+        "category": "DRESS"
+    },
+    {
+        "id": "19",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61c9KMJaPJL._MCnd_AC_UL320_.jpg",
+        "name": "ONE SHOULDER GOWN",
+        "price": "444.23",
+        "category": "DRESS"
+    },
+    {
+        "id": "20",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61ZTGFslfLL._MCnd_AC_UL320_.jpg",
+        "name": "SEQUIN GOWN",
+        "price": "441.59",
+        "category": "DRESS"
+    },
+    {
+        "id": "21",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61sV65YgoEL._MCnd_AC_UL320_.jpg",
+        "name": "SCARLET WRAP DRESS",
+        "price": "466.56",
+        "category": "DRESS"
+    },
+    {
+        "id": "22",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81ishc0f7UL._MCnd_AC_UL320_.jpg",
+        "name": "METALLIC GOWN",
+        "price": "458",
+        "category": "DRESS"
+    },
+    {
+        "id": "23",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71dVdizIiYL._MCnd_AC_UL320_.jpg",
+        "name": "CREPE GOWN",
+        "price": "454.42",
+        "category": "DRESS"
+    },
+    {
+        "id": "24",
+        "image": "https://m.media-amazon.com/images/I/71XRTUcqHiL._MCnd_AC_UL320_.jpg",
+        "name": "TRENCH DRESS",
+        "price": "451.39",
+        "category": "DRESS"
+    },
+    {
+        "id": "25",
+        "image": "https://m.media-amazon.com/images/I/81np-PPFTQL._MCnd_AC_UL320_.jpg",
+        "name": "FLARE DRESS",
+        "price": "448",
+        "category": "DRESS"
+    },
+    {
+        "id": "26",
+        "image": "https://m.media-amazon.com/images/I/81Sjde+QRpL._AC_UL320_.jpg",
+        "name": "CROP JEANS",
+        "price": "50",
+        "category": "DENIM"
+    },
+    {
+        "id": "27",
+        "image": "https://m.media-amazon.com/images/I/717KZZqjZ4L._AC_UL320_.jpg",
+        "name": "WIDE LEG ",
+        "price": "44.97",
+        "category": "DENIM"
+    },
+    {
+        "id": "28",
+        "image": "https://m.media-amazon.com/images/I/717KZZqjZ4L._AC_UL320_.jpg",
+        "name": "GIRLFRIEND JEANS",
+        "price": "50",
+        "category": "DENIM"
+    },
+    {
+        "id": "29",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71rxu7JPb6L._AC_UL320_.jpg",
+        "name": "FLAP PCKET",
+        "price": "99.99",
+        "category": "DENIM"
+    },
+    {
+        "id": "30",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51n+cTKrM-S._AC_UL320_.jpg",
+        "name": "BOYFRIEND JEANS",
+        "price": "99.99",
+        "category": "DENIM"
+    },
+    {
+        "id": "31",
+        "image": "https://m.media-amazon.com/images/I/81L3NPLyZhL._AC_UL320_.jpg",
+        "name": "STRAIGHT ANKLE JEANS ",
+        "price": "98.91",
+        "category": "DENIM"
+    },
+    {
+        "id": "32",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51IL4d95pkL._AC_UL320_.jpg",
+        "name": "WIDE FLARE ",
+        "price": "149.98",
+        "category": "DENIM"
+    },
+    {
+        "id": "33",
+        "image": "https://m.media-amazon.com/images/I/716obget+7L._AC_UL320_.jpg",
+        "name": "PIQUE JEAN",
+        "price": "148.86",
+        "category": "DENIM"
+    },
+    {
+        "id": "34",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61pPwtMQM6L._AC_UL320_.jpg",
+        "name": "STONEWASH JEAN",
+        "price": "129.97",
+        "category": "DENIM"
+    },
+    {
+        "id": "35",
+        "image": "https://m.media-amazon.com/images/I/61LDPzhU-IL._AC_UL320_.jpg",
+        "name": "SKINNY CROP ",
+        "price": "166.98",
+        "category": "DENIM"
+    },
+    {
+        "id": "36",
+        "image": "https://m.media-amazon.com/images/I/81z+zWems1L._AC_UL320_.jpg",
+        "name": "DENIM TROUSERS",
+        "price": "128.33",
+        "category": "DENIM"
+    },
+    {
+        "id": "37",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71xWNkP1f3L._AC_UL320_.jpg",
+        "name": "SKINNY LEG",
+        "price": "199.99",
+        "category": "DENIM"
+    },
+    {
+        "id": "38",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71P5RDY7siL._AC_UL320_.jpg",
+        "name": "CROP JEANS",
+        "price": "296.01",
+        "category": "DENIM"
+    },
+    {
+        "id": "39",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41t66-jfebL._AC_UL320_.jpg",
+        "name": "HIGH WAIST",
+        "price": "278",
+        "category": "DENIM"
+    },
+    {
+        "id": "40",
+        "image": "https://m.media-amazon.com/images/I/71NfTvX-bmL._AC_UL320_.jpg",
+        "name": "LEENAH JEAN",
+        "price": "249",
+        "category": "DENIM"
+    },
+    {
+        "id": "41",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/A19LEqoPP0L._AC_UL320_.jpg",
+        "name": "ANKLE FRAY",
+        "price": "325",
+        "category": "DENIM"
+    },
+    {
+        "id": "42",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81nxaWXX6wL._AC_UL320_.jpg",
+        "name": "FIT JEAN",
+        "price": "305.92",
+        "category": "DENIM"
+    },
+    {
+        "id": "43",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81ijqG91EwL._AC_UL320_.jpg",
+        "name": "BOYFRIEND JEANS",
+        "price": "392",
+        "category": "DENIM"
+    },
+    {
+        "id": "44",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51VyTSLYQrL._AC_UL320_.jpg",
+        "name": "DEMILO",
+        "price": "597",
+        "category": "DENIM"
+    },
+    {
+        "id": "45",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51HhEgTvaIL._AC_UL320_.jpg",
+        "name": "BOOT JEAN",
+        "price": "427",
+        "category": "DENIM"
+    },
+    {
+        "id": "46",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/716yum8aypL._AC_UL320_.jpg",
+        "name": "KNIT PANTS",
+        "price": "534.78",
+        "category": "DENIM"
+    },
+    {
+        "id": "47",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71P5RDY7siL._AC_UL320_.jpg",
+        "name": "CROP JEANS",
+        "price": "467.89",
+        "category": "DENIM"
+    },
+    {
+        "id": "48",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51jmNzFM2vL._AC_UL320_.jpg",
+        "name": "FLUTTER SLV",
+        "price": "548.94",
+        "category": "DENIM"
+    },
+    {
+        "id": "49",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/A1Qd8Vw1FyL._AC_UL320_.jpg",
+        "name": "FLAUNT ACCENT",
+        "price": "439.67",
+        "category": "DENIM"
+    },
+    {
+        "id": "50",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71QZue-4laL._AC_UL320_.jpg",
+        "name": "SPOTLIGHT JEANS",
+        "price": "467.53",
+        "category": "DENIM"
+    },
+    {
+        "id": "51",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61Y4XcM8DZL._AC_UL320_.jpg",
+        "name": "SHORT SLEEVE",
+        "price": "50",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "52",
+        "image": "https://m.media-amazon.com/images/I/81FzI-hc4QS._AC_UL320_.jpg",
+        "name": "COTTON TEE",
+        "price": "48.67",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "53",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/818l2ow5baL._AC_UL320_.jpg",
+        "name": "V-NECK",
+        "price": "69.95",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "54",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71WYTsz5kGL._AC_UL320_.jpg",
+        "name": "PLUS SIZE",
+        "price": "78.94",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "55",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91jth5lFiYL._AC_UL320_.jpg",
+        "name": "LANIGAN TEE",
+        "price": "85.81",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "56",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61BNq+V6LjL._AC_UL320_.jpg",
+        "name": "V-NECK",
+        "price": "95.45",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "57",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/8117XbQMFlL._AC_UL320_.jpg",
+        "name": "SHORT SLEEVE",
+        "price": "114.56",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "58",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91gx1PZcOPS._AC_UL320_.jpg",
+        "name": "LINEN KNIT",
+        "price": "117.67",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "59",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71Vw+Smy7VS._AC_UL320_.jpg",
+        "name": "PUFF SLEVE",
+        "price": "149.92",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "60",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91mlm6EiM1L._AC_UL320_.jpg",
+        "name": "SHARIANA",
+        "price": "148.67",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "61",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91axFPwO4uL._AC_UL320_.jpg",
+        "name": "ALDINE TEE",
+        "price": "178.56",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "62",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81usfgVd1YL._AC_UL320_.jpg",
+        "name": "PUFF SLEVE",
+        "price": "195.45",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "63",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91n5QKVMnyL._AC_UL320_.jpg",
+        "name": "COMPACT KNIT",
+        "price": "207.45",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "64",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81+RuypLUcL._AC_UL320_.jpg",
+        "name": "CREW NECK",
+        "price": "248",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "65",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61bpbdZrWCL._AC_UL320_.jpg",
+        "name": "OVERSISED TEE",
+        "price": "278",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "66",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71gJH5deI9L._AC_UL320_.jpg",
+        "name": "SOUXANNE TEE",
+        "price": "276",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "67",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91aF4qimfLL._AC_UL320_.jpg",
+        "name": "CROSHET",
+        "price": "395",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "68",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/512QCRRe2hS._AC_UL320_.jpg",
+        "name": "Silhouette Satin Tee",
+        "price": "356",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "69",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/818bFcCHj8L._AC_UL320_.jpg",
+        "name": "TURTLE NECK ",
+        "price": "405",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "70",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91Z3qbLHBwL._AC_UL320_.jpg",
+        "name": "TRANSFER CREW NECK",
+        "price": "478.56",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "71",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51SeYRkh2kL._AC_UL320_.jpg",
+        "name": "SHARIANA ",
+        "price": "578.34",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "72",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91T6SJNeYkS._AC_UL320_.jpg",
+        "name": "CAVALLI PRINTED",
+        "price": "487.56",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "73",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91xIhcqLgGL._AC_UL320_.jpg",
+        "name": "PEBBELED COTTON",
+        "price": "534.87",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "74",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71cvCaw34QL._AC_UL320_.jpg",
+        "name": "TRIM CREW NECK SHELL",
+        "price": "563.56",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "75",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81C5cXq2V+L._AC_UL320_.jpg",
+        "name": "ROUNDED TOP",
+        "price": "578.68",
+        "category": "women-t-shirt"
+    },
+    {
+        "id": "76",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71i-Gd2dw0L._AC_UL320_.jpg",
+        "name": "TRACTION BOOTIE",
+        "price": "68.56",
+        "category": "SHOES"
+    },
+    {
+        "id": "77",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81Ay6Cr5ukL._AC_UL320_.jpg",
+        "name": "TENNIS SHOES",
+        "price": "69.95",
+        "category": "SHOES"
+    },
+    {
+        "id": "78",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81Y1dtIcePL._AC_UL320_.jpg",
+        "name": "BASKETBALL SHOES",
+        "price": "87.56",
+        "category": "SHOES"
+    },
+    {
+        "id": "79",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71LsoMYUw0S._AC_UL320_.jpg",
+        "name": "TRACTION MULE V",
+        "price": "83.56",
+        "category": "SHOES"
+    },
+    {
+        "id": "80",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71LFHIe1QAL._AC_UL320_.jpg",
+        "name": "HIKING SHOE",
+        "price": "78.9",
+        "category": "SHOES"
+    },
+    {
+        "id": "81",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71aHj1qZq0L._AC_UL320_.jpg",
+        "name": "FLUFFY HOUSE ZODACA",
+        "price": "81.45",
+        "category": "SHOES"
+    },
+    {
+        "id": "82",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/719NHx1nrTL._AC_UL320_.jpg",
+        "name": "PLAY SHORTS BOOTS",
+        "price": "123.65",
+        "category": "SHOES"
+    },
+    {
+        "id": "83",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71I9qzMHbzL._AC_UL320_.jpg",
+        "name": "HIGH TOP SNEAKERS",
+        "price": "154.32",
+        "category": "SHOES"
+    },
+    {
+        "id": "84",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71ObbvvNwXL._AC_UL320_.jpg",
+        "name": "2.0 CLOG",
+        "price": "183.89",
+        "category": "SHOES"
+    },
+    {
+        "id": "85",
+        "image": "https://m.media-amazon.com/images/I/61ZiyEUA32L._AC_UL320_.jpg",
+        "name": "FITNESS SHOES",
+        "price": "164.25",
+        "category": "SHOES"
+    },
+    {
+        "id": "86",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/8161Sd1-hzL._AC_UL320_.jpg",
+        "name": "HIGH TOP SNEAKERS",
+        "price": "134.56",
+        "category": "SHOES"
+    },
+    {
+        "id": "87",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81qrF5kWa4L._AC_UL320_.jpg",
+        "name": "CATE BOOT",
+        "price": "189.97",
+        "category": "SHOES"
+    },
+    {
+        "id": "88",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61239rnO8xL._AC_UL320_.jpg",
+        "name": "ANKLE BOOT",
+        "price": "206.78",
+        "category": "SHOES"
+    },
+    {
+        "id": "89",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41DuZzK23YL._AC_UL320_.jpg",
+        "name": "ANKLE BOOT",
+        "price": "219.89",
+        "category": "SHOES"
+    },
+    {
+        "id": "90",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61u6VHaxhGL._AC_UL320_.jpg",
+        "name": "ANKLE BOOT",
+        "price": "237.98",
+        "category": "SHOES"
+    },
+    {
+        "id": "91",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/813OIXpvXCL._AC_UL320_.jpg",
+        "name": "LITE VELVET TAN",
+        "price": "328.59",
+        "category": "SHOES"
+    },
+    {
+        "id": "92",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81YfAFSQGAL._AC_UL320_.jpg",
+        "name": "CHELSEA BOOTS",
+        "price": "384.53",
+        "category": "SHOES"
+    },
+    {
+        "id": "93",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/511c698eDaL._AC_UL320_.jpg",
+        "name": "CANILLY PUMP",
+        "price": "395.73",
+        "category": "SHOES"
+    },
+    {
+        "id": "94",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81jGnJHCFjL._AC_UL320_.jpg",
+        "name": "COWBOY BOOTS",
+        "price": "406.25",
+        "category": "SHOES"
+    },
+    {
+        "id": "95",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81m1QoaytFL._AC_UL320_.jpg",
+        "name": "TOE FLAT BALLET",
+        "price": "435.21",
+        "category": "SHOES"
+    },
+    {
+        "id": "96",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71DAXGIOK+L._AC_UL320_.jpg",
+        "name": "TERRAIN DERBY SNEAKERS",
+        "price": "465.86",
+        "category": "SHOES"
+    },
+    {
+        "id": "97",
+        "image": "https://m.media-amazon.com/images/I/41wGuXEI1oL._AC_UL320_.jpg",
+        "name": "HIGH TOP BOAT SHOES",
+        "price": "499.99",
+        "category": "SHOES"
+    },
+    {
+        "id": "98",
+        "image": "https://m.media-amazon.com/images/I/61FlIp0x9cS._AC_UL320_.jpg",
+        "name": "HIGH HEEL",
+        "price": "528.64",
+        "category": "SHOES"
+    },
+    {
+        "id": "99",
+        "image": "https://m.media-amazon.com/images/I/81ySArG1BLL._AC_UL320_.jpg",
+        "name": "PEEP TOE PUMP",
+        "price": "574.99",
+        "category": "SHOES"
+    },
+    {
+        "id": "100",
+        "image": "https://m.media-amazon.com/images/I/91JRG0JoSES._AC_UL320_.jpg",
+        "name": "ASTON BOOTIE",
+        "price": "598.99",
+        "category": "SHOES"
+    },
+    {
+        "id": "101",
+        "image": "https://m.media-amazon.com/images/I/71WRqW56TlL._AC_UL320_.jpg",
+        "name": "PENCIL SKIRT",
+        "price": "24.61",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "102",
+        "image": "https://m.media-amazon.com/images/I/61AbV1qPA3S._AC_UL320_.jpg",
+        "name": "WAVE A-LINE SKIRT",
+        "price": "54.18",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "103",
+        "image": "https://m.media-amazon.com/images/I/61iU13eHCYS._AC_UL320_.jpg",
+        "name": "SCHOOL SKIRTS",
+        "price": "65.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "104",
+        "image": "https://m.media-amazon.com/images/I/61iPiEAPtuL._AC_UL320_.jpg",
+        "name": "HIGH WAIST",
+        "price": "72.35",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "105",
+        "image": "https://m.media-amazon.com/images/I/71gVHl+kLxL._AC_UL320_.jpg",
+        "name": "PLEATED SKIRT",
+        "price": "86.43",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "106",
+        "image": "https://m.media-amazon.com/images/I/61z8BV4L2nL._AC_UL320_.jpg",
+        "name": "BALLET BUBBLE SKIRT",
+        "price": "98.65",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "107",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81cXn71sljL._AC_UL320_.jpg",
+        "name": "BOARDWALK SKIRT",
+        "price": "112.26",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "108",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71SGqh3sv0S._AC_UL320_.jpg",
+        "name": "HI RISE SKIRT",
+        "price": "135.16",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "109",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/713aHgKIAfL._AC_UL320_.jpg",
+        "name": "MINI SKIRT",
+        "price": "152.61",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "110",
+        "image": "https://m.media-amazon.com/images/I/71d7pQj3ifL._AC_UL320_.jpg",
+        "name": "MIDI ADINA AKIRT",
+        "price": "168.25",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "111",
+        "image": "https://m.media-amazon.com/images/I/81qsoq9pNcS._AC_UL320_.jpg",
+        "name": "EYELET MINI SKIRT",
+        "price": "189.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "112",
+        "image": "https://m.media-amazon.com/images/I/71s-WCaPpzL._AC_UL320_.jpg",
+        "name": "PLAIN BAG MINI SKRT",
+        "price": "199.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "113",
+        "image": "https://m.media-amazon.com/images/I/81tpqLN-oSL._AC_UL320_.jpg",
+        "name": "KAILEY SKIRT",
+        "price": "216.32",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "114",
+        "image": "https://m.media-amazon.com/images/I/71GZ1nV1E+L._AC_UL320_.jpg",
+        "name": "MIMI SATIN ROUCHED SKIRT",
+        "price": "235.65",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "115",
+        "image": "https://m.media-amazon.com/images/I/71-XluLtBaL._AC_UL320_.jpg",
+        "name": "LONG FLARED SKIRT",
+        "price": "289.45",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "116",
+        "image": "https://m.media-amazon.com/images/I/71TdR3Lg9mS._AC_UL320_.jpg",
+        "name": "MINI LEATHER SKIRT",
+        "price": "326.65",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "117",
+        "image": "https://m.media-amazon.com/images/I/81jnFN5uD8L._AC_UL320_.jpg",
+        "name": "MINI MISSY SKIRT",
+        "price": "375.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "118",
+        "image": "https://m.media-amazon.com/images/I/714Vv3pu8ZL._AC_UL320_.jpg",
+        "name": "DRAPED KNOT SKIRT",
+        "price": "389.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "119",
+        "image": "https://m.media-amazon.com/images/I/71cqYKW6IPL._AC_UL320_.jpg",
+        "name": "STRIP DETAIL LEATHER SKIRT",
+        "price": "426.35",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "120",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/9174LcopH+L._AC_UL320_.jpg",
+        "name": "THEA SKIRT",
+        "price": "458.65",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "121",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/517r5VTXD0L._AC_UL320_.jpg",
+        "name": "SNAP SKIRT",
+        "price": "489.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "122",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/5186O6uw9PL._AC_UL320_.jpg",
+        "name": "RUFFELED FRONT SKIRT",
+        "price": "521.36",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "123",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/710ZmtTdeJL._AC_UL320_.jpg",
+        "name": "MAXINE SKIRT",
+        "price": "549.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "124",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71rRZ3LT1AL._AC_UL320_.jpg",
+        "name": "VEGAN LEATHER SKIRT",
+        "price": "589.99",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "125",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71dgmQn89uL._AC_UL320_.jpg",
+        "name": "CROCHET SKIRT",
+        "price": "598.5",
+        "category": "SKIRTS"
+    },
+    {
+        "id": "126",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51ZF+lZPljL._AC_UL320_.jpg",
+        "name": "PLAY UP SHORTS",
+        "price": "36.2",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "127",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41GGVqc4lqL._AC_UL320_.jpg",
+        "name": "HEAT GEAR RACER TANK",
+        "price": "46.32",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "128",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91TA4C3qgKL._AC_UL320_.jpg",
+        "name": "CURVY FIT YOGA PANTS",
+        "price": "55.63",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "129",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/5122L0Y8KOL._AC_UL320_.jpg",
+        "name": "SPORTS TEE",
+        "price": "60",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "130",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61r4rRb5U5L._AC_UL320_.jpg",
+        "name": "RUNNING YOGA SHORTS",
+        "price": "72.56",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "131",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71TBCB-QA0L._AC_UL320_.jpg",
+        "name": "SPORTS BRA",
+        "price": "98.99",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "132",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71M80m4yvGL._AC_UL320_.jpg",
+        "name": "RUNNING ATHELETIC TRACKSUIT",
+        "price": "128.99",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "133",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71ujD-7vBgL._AC_UL320_.jpg",
+        "name": "YOGA SHORTS WITH POCKETS",
+        "price": "135.2",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "134",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51TQF2om1DL._AC_UL320_.jpg",
+        "name": "GYM WEAR TOPS",
+        "price": "145.98",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "135",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51jTMlzf1QL._AC_UL320_.jpg",
+        "name": "WORKOUT RASHGUARD TOPS",
+        "price": "165.3",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "136",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61veRSIYTpL._AC_UL320_.jpg",
+        "name": "SEAMLESS SPORTS BRA",
+        "price": "152.3",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "137",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51DP4QjboaL._AC_UL320_.jpg",
+        "name": "SPORTS ACTIVE WEAR",
+        "price": "189.9",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "138",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51nPs8NHgEL._AC_UL320_.jpg",
+        "name": "TRAINING WEAR SHORTS ",
+        "price": "215.9",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "139",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61gHGOvzzdL._AC_UL320_.jpg",
+        "name": "RUNNING LEGGINGS",
+        "price": "235.25",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "140",
+        "image": "https://m.media-amazon.com/images/I/51J7S5VJG4L._AC_UL320_.jpg",
+        "name": "TRACKSUIT ",
+        "price": "340.25",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "141",
+        "image": "https://m.media-amazon.com/images/I/51xxTq3wBRL._AC_UL320_.jpg",
+        "name": "WORKOUT SET",
+        "price": "315.25",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "142",
+        "image": "https://m.media-amazon.com/images/I/41sZClAJd-L._AC_UL320_.jpg",
+        "name": "WAIST LIFT FITNESS SHORTS",
+        "price": "378.98",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "143",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61FLSAPJ9cL._AC_UL320_.jpg",
+        "name": "GYM SHORTS ",
+        "price": "398.8",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "144",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61FanLl579L._AC_UL320_.jpg",
+        "name": "POCKET CAPRI",
+        "price": "425.5",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "145",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81kTuggfVCL._AC_UL320_.jpg",
+        "name": "LIGHTWEIGHT PULLOVER",
+        "price": "460.99",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "146",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71UltGldW7L._AC_UL320_.jpg",
+        "name": "RUNNING T-SHIRT",
+        "price": "498.6",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "147",
+        "image": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51wpepRKYIL._AC_UL320_.jpg",
+        "name": "JOGGER SETS",
+        "price": "540.5",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "148",
+        "image": "https://m.media-amazon.com/images/I/41aR4ofH-dL._AC_UL320_.jpg",
+        "name": "SHORT SLEEVE T-SHIRT",
+        "price": "568.98",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "149",
+        "image": "https://m.media-amazon.com/images/I/81Ivmb-50yL._AC_UL320_.jpg",
+        "name": "ATHELETIC SPORTS SET",
+        "price": "580.98",
+        "category": "SPORTS WEAR"
+    },
+    {
+        "id": "150",
+        "image": "https://m.media-amazon.com/images/I/61A0tjSu+IL._AC_UL320_.jpg",
+        "name": "WORKOUT SPORTS SKIRT",
+        "price": "599.99",
+        "category": "SPORTS WEAR"
+    }
+]
